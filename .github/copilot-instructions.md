@@ -331,3 +331,23 @@ When processing proof.csv or config.json, verify:
 - **Index immutability**: Once Index assigned to asset symbol, never change or reuse
 - **Price precision**: 8-decimal fixed-point has same precision as 64-bit float for values <$10M per unit
 - **Proof batch gaps**: Gaps in batch_number sequence (missing batches) are expected; do not assume consecutive
+
+## Documentation Validation & Maintenance
+
+**Status**: ✅ Verified & Current (as of January 21, 2026)
+
+All specifications in this file have been validated against actual codebase data. See [ANALYSIS.md](../ANALYSIS.md) for detailed verification audit.
+
+**Quarterly Maintenance Checklist**:
+- [ ] After adding new assets: Verify Index immutability maintained; confirm CexAssetsInfo length matches all commitment array lengths
+- [ ] When proof.csv grows beyond 50K records: Update record count reference in Project Structure section
+- [ ] Price updates: Confirm both config.json BasePrice and Asset_List.csv updated; validate within ±10% of previous
+- [ ] Data anomalies: If Asset_List.csv diverges >2% from config.json, document in "Known Limitations" section
+- [ ] Batch processing: Monitor for extreme gaps in batch_number sequence; flag if gaps exceed 1000
+
+**Quick Debug Reference for Common Questions**:
+- Q: "Should I use Asset_List.csv prices?" → A: No, always use config.json BasePrice (source of truth)
+- Q: "Is TotalDebt > TotalEquity an error?" → A: No, valid for leveraged/borrowed positions
+- Q: "Why aren't batch numbers consecutive?" → A: Normal behavior; batches may be skipped, failed, or reordered
+- Q: "How do I convert BasePrice to display price?" → A: Divide by 100,000,000 (8-decimal fixed-point format)
+- Q: "What if commitment arrays don't align?" → A: Chain integrity compromised; verify config.json Index order matches proof.csv array order
