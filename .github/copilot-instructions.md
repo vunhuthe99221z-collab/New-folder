@@ -1,5 +1,16 @@
 # Copilot Instructions - zkMerkle Verifier
 
+## TL;DR - Quick Start for AI Agents
+**What**: Zero-Knowledge Proof-of-Reserve (zkPOR) system for CEX asset verification using Merkle trees.
+
+**Critical Facts**:
+- **Price Format**: All prices use 8-decimal fixed-point integers (divide by 100M for display: `BasePrice / 100,000,000`)
+- **Index Immutability**: Asset indices (0-311) are permanent identifiers, never reused
+- **Proof Arrays**: `cex_asset_list_commitments[i]` = commitment for asset at Index i (must match length of CexAssetsInfo)
+- **Source of Truth**: config.json > Asset_List.csv (Asset_List may lag by hours)
+- **Valid Leverage**: TotalDebt > TotalEquity is normal (indicates borrowed positions)
+- **Batch Continuity**: account_tree_roots[0] of current batch must equal final root of previous batch
+
 ## Project Overview
 This is a **Zero-Knowledge Proof-of-Reserve (zkPOR) verification system** that verifies CEX (Centralized Exchange) asset reserves using zero-knowledge proofs and Merkle tree commitments. The system validates asset holdings without revealing sensitive information.
 
@@ -112,13 +123,15 @@ Each proof record contains parallel arrays that **must remain synchronized by in
 - **USD conversion**: Multiply `TotalEquity * BasePrice / 100,000,000` and `TotalDebt * BasePrice / 100,000,000`
 - **Stale data detection**: Compare Asset_List.csv BasePrice vs config.json; flag >2% discrepancy for manual review
 - **Config.json is source of truth**: All asset metadata, prices, and counts derive from config.json
+- **Asset_List.csv Purpose**: Acts as a fast-reference token price index; used for cross-validation but NEVER as primary source. config.json values override Asset_List.csv when they conflict.
 
 ## CSV Parsing Rules (proof.csv)
-- **Always skip header row**: First line contains column names: `id,created_at,updated_at,deleted_at,proof_info,cex_asset_list_commitments,account_tree_roots,batch_commitment,batch_number`
+- **Always skip header row**: First line contains column names; proof.csv structure requires CSV parser (not simple string.split)
 - **Use CSV library for Base64**: proof_info field contains Base64 strings that may include commas; standard CSV parsing required
-- **Field parsing order**: Always parse in column order; some fields contain nested arrays encoded as JSON strings within CSV
+- **Field parsing order**: Parse in sequence: id, created_at, updated_at, deleted_at, proof_info, cex_asset_list_commitments, account_tree_roots, batch_commitment, batch_number
 - **Encoding**: UTF-8; Base64 values are ASCII-safe but may contain + or / characters
-- **Array fields**: `cex_asset_list_commitments` and `account_tree_roots` are JSON arrays stored as quoted strings in CSV
+- **Array fields**: `cex_asset_list_commitments` and `account_tree_roots` are JSON arrays stored as quoted strings within CSV cells
+- **Important**: The Header row contains metadata columns (id, created_at, updated_at, deleted_at) before the key proof fields
 
 ### JSON Parsing (config.json)
 - **Valid JSON**: Standard UTF-8 JSON array of objects
