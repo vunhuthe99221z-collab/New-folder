@@ -1,0 +1,2190 @@
+{
+  "ProofTable": "config/proof.csv",
+  "ZkKeyName": "config/zkpor864",
+  "CexAssetsInfo": [
+    {
+      "TotalEquity": 54753410812937,
+      "TotalDebt": 714375176240,
+      "BasePrice": 2312848000000,
+      "Symbol": "BTC",
+      "Index": 0
+    },
+    {
+      "TotalEquity": 471532397019137,
+      "TotalDebt": 11386569418646,
+      "BasePrice": 158533000000,
+      "Symbol": "ETH",
+      "Index": 1
+    },
+    {
+      "TotalEquity": 2470393839243292,
+      "TotalDebt": 3632830862699,
+      "BasePrice": 31210000000,
+      "Symbol": "BNB",
+      "Index": 2
+    },
+    {
+      "TotalEquity": 1604186704989127812,
+      "TotalDebt": 134300306500744832,
+      "BasePrice": 100010001,
+      "Symbol": "USDT",
+      "Index": 3
+    },
+    {
+      "TotalEquity": 936977912619118058,
+      "TotalDebt": 79508075618948631,
+      "BasePrice": 100000000,
+      "Symbol": "BUSD",
+      "Index": 4
+    },
+    {
+      "TotalEquity": 500066480837969,
+      "TotalDebt": 0,
+      "BasePrice": 99998338,
+      "Symbol": "USDC",
+      "Index": 5
+    },
+    {
+      "TotalEquity": 664025782198283,
+      "TotalDebt": 26069452897865,
+      "BasePrice": 9411000000,
+      "Symbol": "LTC",
+      "Index": 6
+    },
+    {
+      "TotalEquity": 285210669759579884,
+      "TotalDebt": 36411658914688769,
+      "BasePrice": 40580000,
+      "Symbol": "XRP",
+      "Index": 7
+    },
+    {
+      "TotalEquity": 3201974350105046,
+      "TotalDebt": 50179900602173,
+      "BasePrice": 2393000000,
+      "Symbol": "SOL",
+      "Index": 8
+    },
+    {
+      "TotalEquity": 5691284958555991,
+      "TotalDebt": 71723277052478,
+      "BasePrice": 695500000,
+      "Symbol": "LINK",
+      "Index": 9
+    },
+    {
+      "TotalEquity": 9604401337169648,
+      "TotalDebt": 23931372168649,
+      "BasePrice": 51400000,
+      "Symbol": "1INCH",
+      "Index": 10
+    },
+    {
+      "TotalEquity": 161605990569082,
+      "TotalDebt": 1498128060821,
+      "BasePrice": 8300000000,
+      "Symbol": "AAVE",
+      "Index": 11
+    },
+    {
+      "TotalEquity": 136995683593850090,
+      "TotalDebt": 2995961400968374,
+      "BasePrice": 1368000,
+      "Symbol": "ACH",
+      "Index": 12
+    },
+    {
+      "TotalEquity": 210529544454852,
+      "TotalDebt": 480242571530,
+      "BasePrice": 270700000,
+      "Symbol": "ACM",
+      "Index": 13
+    },
+    {
+      "TotalEquity": 310115407511380318,
+      "TotalDebt": 2307752966938207,
+      "BasePrice": 39020000,
+      "Symbol": "ADA",
+      "Index": 14
+    },
+    {
+      "TotalEquity": 5122414194141714,
+      "TotalDebt": 18989551149666,
+      "BasePrice": 18070000,
+      "Symbol": "ADX",
+      "Index": 15
+    },
+    {
+      "TotalEquity": 3979379758611337,
+      "TotalDebt": 53126916486409,
+      "BasePrice": 14200000,
+      "Symbol": "AERGO",
+      "Index": 16
+    },
+    {
+      "TotalEquity": 3509873016254259,
+      "TotalDebt": 21781657979656,
+      "BasePrice": 33700000,
+      "Symbol": "AGLD",
+      "Index": 17
+    },
+    {
+      "TotalEquity": 212997429887658996,
+      "TotalDebt": 162504912068572,
+      "BasePrice": 357000,
+      "Symbol": "AKRO",
+      "Index": 18
+    },
+    {
+      "TotalEquity": 24178852553114,
+      "TotalDebt": 111918989794,
+      "BasePrice": 2060000000,
+      "Symbol": "ALCX",
+      "Index": 19
+    },
+    {
+      "TotalEquity": 36826455552778705,
+      "TotalDebt": 404430472976459,
+      "BasePrice": 24140000,
+      "Symbol": "ALGO",
+      "Index": 20
+    },
+    {
+      "TotalEquity": 2304355498447268,
+      "TotalDebt": 13831111588503,
+      "BasePrice": 179700000,
+      "Symbol": "ALICE",
+      "Index": 21
+    },
+    {
+      "TotalEquity": 3592885277509190,
+      "TotalDebt": 5762891946189,
+      "BasePrice": 28870000,
+      "Symbol": "ALPACA",
+      "Index": 22
+    },
+    {
+      "TotalEquity": 13550414628820268,
+      "TotalDebt": 4124738159714,
+      "BasePrice": 13520000,
+      "Symbol": "ALPHA",
+      "Index": 23
+    },
+    {
+      "TotalEquity": 391870151163578,
+      "TotalDebt": 0,
+      "BasePrice": 263760000,
+      "Symbol": "ALPINE",
+      "Index": 24
+    },
+    {
+      "TotalEquity": 101212562732882906,
+      "TotalDebt": 898081779259389,
+      "BasePrice": 1618000,
+      "Symbol": "AMB",
+      "Index": 25
+    },
+    {
+      "TotalEquity": 132741385932981261,
+      "TotalDebt": 1475802770719487,
+      "BasePrice": 459000,
+      "Symbol": "AMP",
+      "Index": 26
+    },
+    {
+      "TotalEquity": 21113268080794514,
+      "TotalDebt": 0,
+      "BasePrice": 4902000,
+      "Symbol": "ANC",
+      "Index": 27
+    },
+    {
+      "TotalEquity": 105725491631851269,
+      "TotalDebt": 1828323290978308,
+      "BasePrice": 2569000,
+      "Symbol": "ANKR",
+      "Index": 28
+    },
+    {
+      "TotalEquity": 650333719391436,
+      "TotalDebt": 15526514375619,
+      "BasePrice": 319700000,
+      "Symbol": "ANT",
+      "Index": 29
+    },
+    {
+      "TotalEquity": 2571743002205872,
+      "TotalDebt": 502129810642656,
+      "BasePrice": 587200000,
+      "Symbol": "APE",
+      "Index": 30
+    },
+    {
+      "TotalEquity": 496626729899403,
+      "TotalDebt": 9020489939656,
+      "BasePrice": 160100000,
+      "Symbol": "API3",
+      "Index": 31
+    },
+    {
+      "TotalEquity": 1480997226338874,
+      "TotalDebt": 178197183348348,
+      "BasePrice": 1674380000,
+      "Symbol": "APT",
+      "Index": 32
+    },
+    {
+      "TotalEquity": 1006735724175580,
+      "TotalDebt": 1402833130645,
+      "BasePrice": 1054000000,
+      "Symbol": "AR",
+      "Index": 33
+    },
+    {
+      "TotalEquity": 7111154695466816,
+      "TotalDebt": 17622940580595,
+      "BasePrice": 8719437,
+      "Symbol": "ARDR",
+      "Index": 34
+    },
+    {
+      "TotalEquity": 46171675370212961,
+      "TotalDebt": 1228764658429354,
+      "BasePrice": 3556000,
+      "Symbol": "ARPA",
+      "Index": 35
+    },
+    {
+      "TotalEquity": 61571727675150877,
+      "TotalDebt": 161657300321443,
+      "BasePrice": 5890000,
+      "Symbol": "ASTR",
+      "Index": 36
+    },
+    {
+      "TotalEquity": 22680900174501251,
+      "TotalDebt": 31917483567328,
+      "BasePrice": 14400000,
+      "Symbol": "ATA",
+      "Index": 37
+    },
+    {
+      "TotalEquity": 1850123495019147,
+      "TotalDebt": 88647750194917,
+      "BasePrice": 1336600000,
+      "Symbol": "ATOM",
+      "Index": 38
+    },
+    {
+      "TotalEquity": 141341085881748,
+      "TotalDebt": 912144049022,
+      "BasePrice": 530000000,
+      "Symbol": "AUCTION",
+      "Index": 39
+    },
+    {
+      "TotalEquity": 8518435494481714,
+      "TotalDebt": 133310426349682,
+      "BasePrice": 27600000,
+      "Symbol": "AUDIO",
+      "Index": 40
+    },
+    {
+      "TotalEquity": 5095565996050,
+      "TotalDebt": 1609095139,
+      "BasePrice": 29700000000,
+      "Symbol": "AUTO",
+      "Index": 41
+    },
+    {
+      "TotalEquity": 2058026732194749,
+      "TotalDebt": 1554610077283,
+      "BasePrice": 66500000,
+      "Symbol": "AVA",
+      "Index": 42
+    },
+    {
+      "TotalEquity": 1829066264739091,
+      "TotalDebt": 12894221205063,
+      "BasePrice": 1981000000,
+      "Symbol": "AVAX",
+      "Index": 43
+    },
+    {
+      "TotalEquity": 1244723460116862,
+      "TotalDebt": 106929275277033,
+      "BasePrice": 1090000000,
+      "Symbol": "AXS",
+      "Index": 44
+    },
+    {
+      "TotalEquity": 296734081117019,
+      "TotalDebt": 297557552679,
+      "BasePrice": 308000000,
+      "Symbol": "BADGER",
+      "Index": 45
+    },
+    {
+      "TotalEquity": 11796606300942660,
+      "TotalDebt": 36233445869636,
+      "BasePrice": 19560000,
+      "Symbol": "BAKE",
+      "Index": 46
+    },
+    {
+      "TotalEquity": 159455283893243,
+      "TotalDebt": 4301346397861,
+      "BasePrice": 668200000,
+      "Symbol": "BAL",
+      "Index": 47
+    },
+    {
+      "TotalEquity": 1817744430907707,
+      "TotalDebt": 24094983838331,
+      "BasePrice": 213800000,
+      "Symbol": "BAND",
+      "Index": 48
+    },
+    {
+      "TotalEquity": 184586601033589,
+      "TotalDebt": 102541205479,
+      "BasePrice": 418000000,
+      "Symbol": "BAR",
+      "Index": 49
+    },
+    {
+      "TotalEquity": 11724925109321771,
+      "TotalDebt": 201105502329100,
+      "BasePrice": 25320000,
+      "Symbol": "BAT",
+      "Index": 50
+    },
+    {
+      "TotalEquity": 70657338678686,
+      "TotalDebt": 11544015268422,
+      "BasePrice": 13330000000,
+      "Symbol": "BCH",
+      "Index": 51
+    },
+    {
+      "TotalEquity": 1951601271066550,
+      "TotalDebt": 5872731830127,
+      "BasePrice": 55500000,
+      "Symbol": "BEL",
+      "Index": 52
+    },
+    {
+      "TotalEquity": 14760657221401363,
+      "TotalDebt": 32808362046328,
+      "BasePrice": 9700000,
+      "Symbol": "BETA",
+      "Index": 53
+    },
+    {
+      "TotalEquity": 104138786000887,
+      "TotalDebt": 2812773137,
+      "BasePrice": 155977000000,
+      "Symbol": "BETH",
+      "Index": 54
+    },
+    {
+      "TotalEquity": 3031306723937003,
+      "TotalDebt": 1704743307808,
+      "BasePrice": 40400000,
+      "Symbol": "BICO",
+      "Index": 55
+    },
+    {
+      "TotalEquity": 17526024475100,
+      "TotalDebt": 34708,
+      "BasePrice": 6645000000,
+      "Symbol": "BIDR",
+      "Index": 56
+    },
+    {
+      "TotalEquity": 20149104927636919,
+      "TotalDebt": 143027367239531,
+      "BasePrice": 7440000,
+      "Symbol": "BLZ",
+      "Index": 57
+    },
+    {
+      "TotalEquity": 994327732980656,
+      "TotalDebt": 15363457015329,
+      "BasePrice": 42600000,
+      "Symbol": "BNT",
+      "Index": 58
+    },
+    {
+      "TotalEquity": 30904686438036,
+      "TotalDebt": 29770664969,
+      "BasePrice": 8560000000,
+      "Symbol": "BNX",
+      "Index": 59
+    },
+    {
+      "TotalEquity": 211152106843898,
+      "TotalDebt": 4662824294088,
+      "BasePrice": 452800000,
+      "Symbol": "BOND",
+      "Index": 60
+    },
+    {
+      "TotalEquity": 8426704663663485,
+      "TotalDebt": 26221059515807,
+      "BasePrice": 20860000,
+      "Symbol": "BSW",
+      "Index": 61
+    },
+    {
+      "TotalEquity": 12051872077105620,
+      "TotalDebt": 5725944506680,
+      "BasePrice": 72000000,
+      "Symbol": "BTTC",
+      "Index": 62
+    },
+    {
+      "TotalEquity": 2976544924223756,
+      "TotalDebt": 1857056362961,
+      "BasePrice": 68100000,
+      "Symbol": "BURGER",
+      "Index": 63
+    },
+    {
+      "TotalEquity": 10909086916905819,
+      "TotalDebt": 210348299371132,
+      "BasePrice": 27140000,
+      "Symbol": "C98",
+      "Index": 64
+    },
+    {
+      "TotalEquity": 3398312556354304,
+      "TotalDebt": 500028511537443,
+      "BasePrice": 403700000,
+      "Symbol": "CAKE",
+      "Index": 65
+    },
+    {
+      "TotalEquity": 4141408417743333,
+      "TotalDebt": 42288969505185,
+      "BasePrice": 73300000,
+      "Symbol": "CELO",
+      "Index": 66
+    },
+    {
+      "TotalEquity": 227511264361514224,
+      "TotalDebt": 705728832184427,
+      "BasePrice": 1823000,
+      "Symbol": "CELR",
+      "Index": 67
+    },
+    {
+      "TotalEquity": 40818527111593044,
+      "TotalDebt": 5815087445452,
+      "BasePrice": 5460000,
+      "Symbol": "CFX",
+      "Index": 68
+    },
+    {
+      "TotalEquity": 3625859011277340,
+      "TotalDebt": 2130280985295,
+      "BasePrice": 22210000,
+      "Symbol": "CHESS",
+      "Index": 69
+    },
+    {
+      "TotalEquity": 34414116900338852,
+      "TotalDebt": 1175022842430823,
+      "BasePrice": 17130000,
+      "Symbol": "CHR",
+      "Index": 70
+    },
+    {
+      "TotalEquity": 338970907575344324,
+      "TotalDebt": 970163528130131,
+      "BasePrice": 13340000,
+      "Symbol": "CHZ",
+      "Index": 71
+    },
+    {
+      "TotalEquity": 971455456110703050,
+      "TotalDebt": 879217305364620,
+      "BasePrice": 371000,
+      "Symbol": "CKB",
+      "Index": 72
+    },
+    {
+      "TotalEquity": 19273753042001735,
+      "TotalDebt": 33119360966576,
+      "BasePrice": 7150000,
+      "Symbol": "CLV",
+      "Index": 73
+    },
+    {
+      "TotalEquity": 67304558194863,
+      "TotalDebt": 1561021668437,
+      "BasePrice": 5193000000,
+      "Symbol": "COMP",
+      "Index": 74
+    },
+    {
+      "TotalEquity": 277712702650225311,
+      "TotalDebt": 585348923898687,
+      "BasePrice": 572000,
+      "Symbol": "COS",
+      "Index": 75
+    },
+    {
+      "TotalEquity": 64556096055133230,
+      "TotalDebt": 161691508442636,
+      "BasePrice": 9920000,
+      "Symbol": "COTI",
+      "Index": 76
+    },
+    {
+      "TotalEquity": 7857796239779066,
+      "TotalDebt": 141981621773351,
+      "BasePrice": 101900000,
+      "Symbol": "CRV",
+      "Index": 77
+    },
+    {
+      "TotalEquity": 2458441951315807,
+      "TotalDebt": 26215136478606,
+      "BasePrice": 80500000,
+      "Symbol": "CTK",
+      "Index": 78
+    },
+    {
+      "TotalEquity": 13486579478507315,
+      "TotalDebt": 143643877274863,
+      "BasePrice": 14730000,
+      "Symbol": "CTSI",
+      "Index": 79
+    },
+    {
+      "TotalEquity": 7966272091334734,
+      "TotalDebt": 59025881247740,
+      "BasePrice": 21420000,
+      "Symbol": "CTXC",
+      "Index": 80
+    },
+    {
+      "TotalEquity": 11669699597264064,
+      "TotalDebt": 5808437585439,
+      "BasePrice": 39770000,
+      "Symbol": "CVP",
+      "Index": 81
+    },
+    {
+      "TotalEquity": 159253491648501,
+      "TotalDebt": 440292648192,
+      "BasePrice": 587200000,
+      "Symbol": "CVX",
+      "Index": 82
+    },
+    {
+      "TotalEquity": 5554829301713049,
+      "TotalDebt": 1513640963458,
+      "BasePrice": 99990001,
+      "Symbol": "DAI",
+      "Index": 83
+    },
+    {
+      "TotalEquity": 10123839037329089,
+      "TotalDebt": 117806390932581,
+      "BasePrice": 26833000,
+      "Symbol": "DAR",
+      "Index": 84
+    },
+    {
+      "TotalEquity": 128216150652917,
+      "TotalDebt": 1394103615546,
+      "BasePrice": 6026000000,
+      "Symbol": "DASH",
+      "Index": 85
+    },
+    {
+      "TotalEquity": 40412514658716858,
+      "TotalDebt": 141007567165519,
+      "BasePrice": 3516000,
+      "Symbol": "DATA",
+      "Index": 86
+    },
+    {
+      "TotalEquity": 35561426591688,
+      "TotalDebt": 50227617169,
+      "BasePrice": 2275842432,
+      "Symbol": "DCR",
+      "Index": 87
+    },
+    {
+      "TotalEquity": 922708206844355,
+      "TotalDebt": 2413994108936,
+      "BasePrice": 214100000,
+      "Symbol": "DEGO",
+      "Index": 88
+    },
+    {
+      "TotalEquity": 5164645366142913558,
+      "TotalDebt": 7704677281025417,
+      "BasePrice": 93800,
+      "Symbol": "DENT",
+      "Index": 89
+    },
+    {
+      "TotalEquity": 9341710687737977,
+      "TotalDebt": 1176657671754,
+      "BasePrice": 278900000,
+      "Symbol": "DEXE",
+      "Index": 90
+    },
+    {
+      "TotalEquity": 218553562853001112,
+      "TotalDebt": 864716698795515,
+      "BasePrice": 1043000,
+      "Symbol": "DGB",
+      "Index": 91
+    },
+    {
+      "TotalEquity": 3322992201245476,
+      "TotalDebt": 13420151908988,
+      "BasePrice": 35600000,
+      "Symbol": "DIA",
+      "Index": 92
+    },
+    {
+      "TotalEquity": 55205900906146562,
+      "TotalDebt": 108238990879193,
+      "BasePrice": 1868000,
+      "Symbol": "DOCK",
+      "Index": 93
+    },
+    {
+      "TotalEquity": 15936676353514904,
+      "TotalDebt": 41579291092185,
+      "BasePrice": 13400000,
+      "Symbol": "DODO",
+      "Index": 94
+    },
+    {
+      "TotalEquity": 1262850868246,
+      "TotalDebt": 11240063727,
+      "BasePrice": 9613000000000,
+      "Symbol": "DOGE",
+      "Index": 95
+    },
+    {
+      "TotalEquity": 11288276877279562,
+      "TotalDebt": 161204672495383,
+      "BasePrice": 626000000,
+      "Symbol": "DOT",
+      "Index": 96
+    },
+    {
+      "TotalEquity": 2279214910141714,
+      "TotalDebt": 7792205730469,
+      "BasePrice": 35690000,
+      "Symbol": "DREP",
+      "Index": 97
+    },
+    {
+      "TotalEquity": 13004308095856328,
+      "TotalDebt": 53989969233832,
+      "BasePrice": 15460000,
+      "Symbol": "DUSK",
+      "Index": 98
+    },
+    {
+      "TotalEquity": 5490139107181191,
+      "TotalDebt": 220894624611090,
+      "BasePrice": 322400000,
+      "Symbol": "DYDX",
+      "Index": 99
+    },
+    {
+      "TotalEquity": 226198183422286,
+      "TotalDebt": 779602653358,
+      "BasePrice": 4290000000,
+      "Symbol": "EGLD",
+      "Index": 100
+    },
+    {
+      "TotalEquity": 22178356852026090,
+      "TotalDebt": 4184789824623,
+      "BasePrice": 17680000,
+      "Symbol": "ELF",
+      "Index": 101
+    },
+    {
+      "TotalEquity": 15793920961965627,
+      "TotalDebt": 120119658863603,
+      "BasePrice": 45780000,
+      "Symbol": "ENJ",
+      "Index": 102
+    },
+    {
+      "TotalEquity": 561541417781464,
+      "TotalDebt": 2542456030912,
+      "BasePrice": 1590000000,
+      "Symbol": "ENS",
+      "Index": 103
+    },
+    {
+      "TotalEquity": 14111368715917148,
+      "TotalDebt": 190808123907047,
+      "BasePrice": 106300000,
+      "Symbol": "EOS",
+      "Index": 104
+    },
+    {
+      "TotalEquity": 3754214624909949565,
+      "TotalDebt": 5284798703651944,
+      "BasePrice": 40300,
+      "Symbol": "EPX",
+      "Index": 105
+    },
+    {
+      "TotalEquity": 551079096737724,
+      "TotalDebt": 4487914496979,
+      "BasePrice": 234000000,
+      "Symbol": "ERN",
+      "Index": 106
+    },
+    {
+      "TotalEquity": 929534269619324,
+      "TotalDebt": 18761871426838,
+      "BasePrice": 2168000000,
+      "Symbol": "ETC",
+      "Index": 107
+    },
+    {
+      "TotalEquity": 61627272015534439,
+      "TotalDebt": 0,
+      "BasePrice": 108560000,
+      "Symbol": "EUR",
+      "Index": 108
+    },
+    {
+      "TotalEquity": 16027954049097,
+      "TotalDebt": 360194514696,
+      "BasePrice": 3710000000,
+      "Symbol": "FARM",
+      "Index": 109
+    },
+    {
+      "TotalEquity": 51298977188935803,
+      "TotalDebt": 176241506732126,
+      "BasePrice": 27520000,
+      "Symbol": "FET",
+      "Index": 110
+    },
+    {
+      "TotalEquity": 2250248011338258,
+      "TotalDebt": 10597793498000,
+      "BasePrice": 41860000,
+      "Symbol": "FIDA",
+      "Index": 111
+    },
+    {
+      "TotalEquity": 6819846041093961,
+      "TotalDebt": 254068411930756,
+      "BasePrice": 523100000,
+      "Symbol": "FIL",
+      "Index": 112
+    },
+    {
+      "TotalEquity": 21843574197236432,
+      "TotalDebt": 22029426596164,
+      "BasePrice": 3520000,
+      "Symbol": "FIO",
+      "Index": 113
+    },
+    {
+      "TotalEquity": 548236569830640,
+      "TotalDebt": 741504692858,
+      "BasePrice": 208100000,
+      "Symbol": "FIRO",
+      "Index": 114
+    },
+    {
+      "TotalEquity": 2182651654487208,
+      "TotalDebt": 28181011625099,
+      "BasePrice": 39530000,
+      "Symbol": "FIS",
+      "Index": 115
+    },
+    {
+      "TotalEquity": 15249611697098838,
+      "TotalDebt": 273955667830581,
+      "BasePrice": 9482677,
+      "Symbol": "FLM",
+      "Index": 116
+    },
+    {
+      "TotalEquity": 5010057823346556,
+      "TotalDebt": 41320179723560,
+      "BasePrice": 106000000,
+      "Symbol": "FLOW",
+      "Index": 117
+    },
+    {
+      "TotalEquity": 2925429359611052,
+      "TotalDebt": 6633285042185,
+      "BasePrice": 90300000,
+      "Symbol": "FLUX",
+      "Index": 118
+    },
+    {
+      "TotalEquity": 43493473191668421,
+      "TotalDebt": 7688722980324,
+      "BasePrice": 1930000,
+      "Symbol": "FOR",
+      "Index": 119
+    },
+    {
+      "TotalEquity": 273599445742776,
+      "TotalDebt": 688019053737,
+      "BasePrice": 344000000,
+      "Symbol": "FORTH",
+      "Index": 120
+    },
+    {
+      "TotalEquity": 5098056420579339,
+      "TotalDebt": 15955976650378,
+      "BasePrice": 22390000,
+      "Symbol": "FRONT",
+      "Index": 121
+    },
+    {
+      "TotalEquity": 75349402193614172,
+      "TotalDebt": 2626522812158692,
+      "BasePrice": 53710000,
+      "Symbol": "FTM",
+      "Index": 122
+    },
+    {
+      "TotalEquity": 290832279205177697,
+      "TotalDebt": 123640056987230,
+      "BasePrice": 703887,
+      "Symbol": "FUN",
+      "Index": 123
+    },
+    {
+      "TotalEquity": 416132805399819,
+      "TotalDebt": 0,
+      "BasePrice": 1030400000,
+      "Symbol": "FXS",
+      "Index": 124
+    },
+    {
+      "TotalEquity": 2066431028546157,
+      "TotalDebt": 9889213475439,
+      "BasePrice": 208700000,
+      "Symbol": "GAL",
+      "Index": 125
+    },
+    {
+      "TotalEquity": 388406622881313370,
+      "TotalDebt": 8294003498663324,
+      "BasePrice": 5418000,
+      "Symbol": "GALA",
+      "Index": 126
+    },
+    {
+      "TotalEquity": 289493997255127,
+      "TotalDebt": 405338513175,
+      "BasePrice": 246200000,
+      "Symbol": "GAS",
+      "Index": 127
+    },
+    {
+      "TotalEquity": 2775871706856877,
+      "TotalDebt": 87997817357611,
+      "BasePrice": 23460000,
+      "Symbol": "GLM",
+      "Index": 128
+    },
+    {
+      "TotalEquity": 6738627895487018,
+      "TotalDebt": 12261707436748,
+      "BasePrice": 44380000,
+      "Symbol": "GLMR",
+      "Index": 129
+    },
+    {
+      "TotalEquity": 23643194629576183,
+      "TotalDebt": 206121485182368,
+      "BasePrice": 55150000,
+      "Symbol": "GMT",
+      "Index": 130
+    },
+    {
+      "TotalEquity": 50290840438896,
+      "TotalDebt": 817705583275,
+      "BasePrice": 5956000000,
+      "Symbol": "GMX",
+      "Index": 131
+    },
+    {
+      "TotalEquity": 2018640478775,
+      "TotalDebt": 6089986470,
+      "BasePrice": 11421142114,
+      "Symbol": "GNO",
+      "Index": 132
+    },
+    {
+      "TotalEquity": 68412973289173643,
+      "TotalDebt": 281590506950362,
+      "BasePrice": 8880000,
+      "Symbol": "GRT",
+      "Index": 133
+    },
+    {
+      "TotalEquity": 770344353836779,
+      "TotalDebt": 3545619533930,
+      "BasePrice": 191800000,
+      "Symbol": "GTC",
+      "Index": 134
+    },
+    {
+      "TotalEquity": 3623741310715328,
+      "TotalDebt": 12677676167885,
+      "BasePrice": 19100000,
+      "Symbol": "HARD",
+      "Index": 135
+    },
+    {
+      "TotalEquity": 153930037071904610,
+      "TotalDebt": 1109692769551644,
+      "BasePrice": 6460000,
+      "Symbol": "HBAR",
+      "Index": 136
+    },
+    {
+      "TotalEquity": 2223045671053517,
+      "TotalDebt": 1807174744894,
+      "BasePrice": 49478149,
+      "Symbol": "HIFI",
+      "Index": 137
+    },
+    {
+      "TotalEquity": 1748904546301322,
+      "TotalDebt": 5979987251422,
+      "BasePrice": 356800000,
+      "Symbol": "HIGH",
+      "Index": 138
+    },
+    {
+      "TotalEquity": 2192061944079518,
+      "TotalDebt": 20886252866914,
+      "BasePrice": 39170000,
+      "Symbol": "HIVE",
+      "Index": 139
+    },
+    {
+      "TotalEquity": 1393176487986420,
+      "TotalDebt": 207621754719,
+      "BasePrice": 265600000,
+      "Symbol": "HNT",
+      "Index": 140
+    },
+    {
+      "TotalEquity": 4256674372017897,
+      "TotalDebt": 195109066900,
+      "BasePrice": 296620000,
+      "Symbol": "HOOK",
+      "Index": 141
+    },
+    {
+      "TotalEquity": 4166766148422,
+      "TotalDebt": 9153275161,
+      "BasePrice": 212000000000,
+      "Symbol": "HOT",
+      "Index": 142
+    },
+    {
+      "TotalEquity": 3089519464774003,
+      "TotalDebt": 10229724845115,
+      "BasePrice": 587000000,
+      "Symbol": "ICP",
+      "Index": 143
+    },
+    {
+      "TotalEquity": 11403226647760872,
+      "TotalDebt": 106488541132094,
+      "BasePrice": 20530000,
+      "Symbol": "ICX",
+      "Index": 144
+    },
+    {
+      "TotalEquity": 23157030333789909,
+      "TotalDebt": 220257810887512,
+      "BasePrice": 5095000,
+      "Symbol": "IDEX",
+      "Index": 145
+    },
+    {
+      "TotalEquity": 27459953829181,
+      "TotalDebt": 110209457556,
+      "BasePrice": 6811000000,
+      "Symbol": "ILV",
+      "Index": 146
+    },
+    {
+      "TotalEquity": 5351718183269507,
+      "TotalDebt": 6732536430486,
+      "BasePrice": 75200000,
+      "Symbol": "IMX",
+      "Index": 147
+    },
+    {
+      "TotalEquity": 1490043991366971,
+      "TotalDebt": 6577371754485,
+      "BasePrice": 314200000,
+      "Symbol": "INJ",
+      "Index": 148
+    },
+    {
+      "TotalEquity": 421641189021027391,
+      "TotalDebt": 3042691909137094,
+      "BasePrice": 949000,
+      "Symbol": "IOST",
+      "Index": 149
+    },
+    {
+      "TotalEquity": 26603453122362305,
+      "TotalDebt": 81816737412295,
+      "BasePrice": 22720000,
+      "Symbol": "IOTA",
+      "Index": 150
+    },
+    {
+      "TotalEquity": 125482145003662832,
+      "TotalDebt": 1008926408848257,
+      "BasePrice": 2869000,
+      "Symbol": "IOTX",
+      "Index": 151
+    },
+    {
+      "TotalEquity": 60238353879713362,
+      "TotalDebt": 2588612948,
+      "BasePrice": 617000,
+      "Symbol": "IQ",
+      "Index": 152
+    },
+    {
+      "TotalEquity": 32073508354520199,
+      "TotalDebt": 3446626719066,
+      "BasePrice": 1780893,
+      "Symbol": "IRIS",
+      "Index": 153
+    },
+    {
+      "TotalEquity": 1263202851317480344,
+      "TotalDebt": 6844143470255355,
+      "BasePrice": 511900,
+      "Symbol": "JASMY",
+      "Index": 154
+    },
+    {
+      "TotalEquity": 2547437882181075,
+      "TotalDebt": 3977615204183,
+      "BasePrice": 21040000,
+      "Symbol": "JOE",
+      "Index": 155
+    },
+    {
+      "TotalEquity": 32765288887929230,
+      "TotalDebt": 16281998524499,
+      "BasePrice": 2601000,
+      "Symbol": "JST",
+      "Index": 156
+    },
+    {
+      "TotalEquity": 2305646496195644,
+      "TotalDebt": 31994471644242,
+      "BasePrice": 95200000,
+      "Symbol": "KAVA",
+      "Index": 157
+    },
+    {
+      "TotalEquity": 4242302728619984,
+      "TotalDebt": 3025369018286,
+      "BasePrice": 119700000,
+      "Symbol": "KDA",
+      "Index": 158
+    },
+    {
+      "TotalEquity": 338087281652435436,
+      "TotalDebt": 0,
+      "BasePrice": 363100,
+      "Symbol": "KEY",
+      "Index": 159
+    },
+    {
+      "TotalEquity": 11888548489028595,
+      "TotalDebt": 70044581536214,
+      "BasePrice": 20610000,
+      "Symbol": "KLAY",
+      "Index": 160
+    },
+    {
+      "TotalEquity": 3870210337406119,
+      "TotalDebt": 6256084551718,
+      "BasePrice": 26597752,
+      "Symbol": "KMD",
+      "Index": 161
+    },
+    {
+      "TotalEquity": 2621059200478957,
+      "TotalDebt": 37958136536238,
+      "BasePrice": 79500000,
+      "Symbol": "KNC",
+      "Index": 162
+    },
+    {
+      "TotalEquity": 13800508253751,
+      "TotalDebt": 166668841030,
+      "BasePrice": 7770000000,
+      "Symbol": "KP3R",
+      "Index": 163
+    },
+    {
+      "TotalEquity": 95251266676855,
+      "TotalDebt": 848511426667,
+      "BasePrice": 3537000000,
+      "Symbol": "KSM",
+      "Index": 164
+    },
+    {
+      "TotalEquity": 317340255494678,
+      "TotalDebt": 2131718324008,
+      "BasePrice": 348120000,
+      "Symbol": "LAZIO",
+      "Index": 165
+    },
+    {
+      "TotalEquity": 4160748651249061,
+      "TotalDebt": 18419786677720,
+      "BasePrice": 219900000,
+      "Symbol": "LDO",
+      "Index": 166
+    },
+    {
+      "TotalEquity": 933611551460447645,
+      "TotalDebt": 11279985311910717,
+      "BasePrice": 232700,
+      "Symbol": "LEVER",
+      "Index": 167
+    },
+    {
+      "TotalEquity": 248062470936866761,
+      "TotalDebt": 805081249174121,
+      "BasePrice": 726600,
+      "Symbol": "LINA",
+      "Index": 168
+    },
+    {
+      "TotalEquity": 2698196905051047,
+      "TotalDebt": 23488483393163,
+      "BasePrice": 100000000,
+      "Symbol": "LIT",
+      "Index": 169
+    },
+    {
+      "TotalEquity": 3751322334208135,
+      "TotalDebt": 25267274995171,
+      "BasePrice": 71540000,
+      "Symbol": "LOKA",
+      "Index": 170
+    },
+    {
+      "TotalEquity": 13800164505965092,
+      "TotalDebt": 152641383388711,
+      "BasePrice": 5070000,
+      "Symbol": "LOOM",
+      "Index": 171
+    },
+    {
+      "TotalEquity": 132248270836541,
+      "TotalDebt": 4220947712616,
+      "BasePrice": 738000000,
+      "Symbol": "LPT",
+      "Index": 172
+    },
+    {
+      "TotalEquity": 16991172252809669,
+      "TotalDebt": 593070675097912,
+      "BasePrice": 34820000,
+      "Symbol": "LRC",
+      "Index": 173
+    },
+    {
+      "TotalEquity": 1578181276075506,
+      "TotalDebt": 1890138575371,
+      "BasePrice": 91700000,
+      "Symbol": "LSK",
+      "Index": 174
+    },
+    {
+      "TotalEquity": 14162266628410989,
+      "TotalDebt": 26660366263864,
+      "BasePrice": 9260000,
+      "Symbol": "LTO",
+      "Index": 175
+    },
+    {
+      "TotalEquity": 4346313623617194,
+      "TotalDebt": 26827020844592,
+      "BasePrice": 205510000,
+      "Symbol": "LUNA",
+      "Index": 176
+    },
+    {
+      "TotalEquity": 209645075229449,
+      "TotalDebt": 430015012205,
+      "BasePrice": 17149000000,
+      "Symbol": "LUNC",
+      "Index": 177
+    },
+    {
+      "TotalEquity": 4128333963817220,
+      "TotalDebt": 16253514121076,
+      "BasePrice": 132750000,
+      "Symbol": "MAGIC",
+      "Index": 178
+    },
+    {
+      "TotalEquity": 24510813457724638,
+      "TotalDebt": 779103015706402,
+      "BasePrice": 74930000,
+      "Symbol": "MANA",
+      "Index": 179
+    },
+    {
+      "TotalEquity": 2045093584063818,
+      "TotalDebt": 173474460394076,
+      "BasePrice": 434100000,
+      "Symbol": "MASK",
+      "Index": 180
+    },
+    {
+      "TotalEquity": 84788156207988458,
+      "TotalDebt": 613282415135535,
+      "BasePrice": 110950000,
+      "Symbol": "MATIC",
+      "Index": 181
+    },
+    {
+      "TotalEquity": 334437794682960999,
+      "TotalDebt": 1687629906719731,
+      "BasePrice": 304200,
+      "Symbol": "MBL",
+      "Index": 182
+    },
+    {
+      "TotalEquity": 4737962814877229,
+      "TotalDebt": 434274442415037,
+      "BasePrice": 54800000,
+      "Symbol": "MBOX",
+      "Index": 183
+    },
+    {
+      "TotalEquity": 3065047102343875,
+      "TotalDebt": 20700477094309,
+      "BasePrice": 36100000,
+      "Symbol": "MC",
+      "Index": 184
+    },
+    {
+      "TotalEquity": 38439471591555512,
+      "TotalDebt": 205288003842054,
+      "BasePrice": 2879000,
+      "Symbol": "MDT",
+      "Index": 185
+    },
+    {
+      "TotalEquity": 30950030991374822,
+      "TotalDebt": 145394908759212,
+      "BasePrice": 9080000,
+      "Symbol": "MDX",
+      "Index": 186
+    },
+    {
+      "TotalEquity": 11006308337523859,
+      "TotalDebt": 69734124219670,
+      "BasePrice": 84700000,
+      "Symbol": "MINA",
+      "Index": 187
+    },
+    {
+      "TotalEquity": 2890470684513,
+      "TotalDebt": 20813751173,
+      "BasePrice": 65600000000,
+      "Symbol": "MKR",
+      "Index": 188
+    },
+    {
+      "TotalEquity": 13499404099497,
+      "TotalDebt": 300164472001,
+      "BasePrice": 2353000000,
+      "Symbol": "MLN",
+      "Index": 189
+    },
+    {
+      "TotalEquity": 1280410761483559,
+      "TotalDebt": 1558956696241,
+      "BasePrice": 164300000,
+      "Symbol": "MOB",
+      "Index": 190
+    },
+    {
+      "TotalEquity": 153749312744204,
+      "TotalDebt": 718431693724,
+      "BasePrice": 839000000,
+      "Symbol": "MOVR",
+      "Index": 191
+    },
+    {
+      "TotalEquity": 799905067062263,
+      "TotalDebt": 25669447519138,
+      "BasePrice": 91100000,
+      "Symbol": "MTL",
+      "Index": 192
+    },
+    {
+      "TotalEquity": 8593841246882084,
+      "TotalDebt": 66581577910649,
+      "BasePrice": 232900000,
+      "Symbol": "NEAR",
+      "Index": 193
+    },
+    {
+      "TotalEquity": 956200212386964,
+      "TotalDebt": 772996322018,
+      "BasePrice": 160700000,
+      "Symbol": "NEBL",
+      "Index": 194
+    },
+    {
+      "TotalEquity": 726212348022531,
+      "TotalDebt": 6825721991879,
+      "BasePrice": 818000000,
+      "Symbol": "NEO",
+      "Index": 195
+    },
+    {
+      "TotalEquity": 719431591823072,
+      "TotalDebt": 892456675551,
+      "BasePrice": 82000000,
+      "Symbol": "NEXO",
+      "Index": 196
+    },
+    {
+      "TotalEquity": 13366355321099412,
+      "TotalDebt": 10135794210079,
+      "BasePrice": 10330000,
+      "Symbol": "NKN",
+      "Index": 197
+    },
+    {
+      "TotalEquity": 35707540733373,
+      "TotalDebt": 423066959451,
+      "BasePrice": 1648000000,
+      "Symbol": "NMR",
+      "Index": 198
+    },
+    {
+      "TotalEquity": 3799236263569495,
+      "TotalDebt": 7685761482174,
+      "BasePrice": 24420000,
+      "Symbol": "NULS",
+      "Index": 199
+    },
+    {
+      "TotalEquity": 12087396129703549,
+      "TotalDebt": 8415198310359,
+      "BasePrice": 34940000,
+      "Symbol": "OCEAN",
+      "Index": 200
+    },
+    {
+      "TotalEquity": 273422633019119,
+      "TotalDebt": 427075689827,
+      "BasePrice": 278700000,
+      "Symbol": "OG",
+      "Index": 201
+    },
+    {
+      "TotalEquity": 17557897404345805,
+      "TotalDebt": 41943188164736,
+      "BasePrice": 12570000,
+      "Symbol": "OGN",
+      "Index": 202
+    },
+    {
+      "TotalEquity": 19757065462205543,
+      "TotalDebt": 147974161766405,
+      "BasePrice": 3640000,
+      "Symbol": "OM",
+      "Index": 203
+    },
+    {
+      "TotalEquity": 1668807930118904,
+      "TotalDebt": 63016800000000,
+      "BasePrice": 140100000,
+      "Symbol": "OMG",
+      "Index": 204
+    },
+    {
+      "TotalEquity": 329250559854785839,
+      "TotalDebt": 1276804569562156,
+      "BasePrice": 2258000,
+      "Symbol": "ONE",
+      "Index": 205
+    },
+    {
+      "TotalEquity": 1330909258228927,
+      "TotalDebt": 11772428386550,
+      "BasePrice": 29373170,
+      "Symbol": "ONG",
+      "Index": 206
+    },
+    {
+      "TotalEquity": 11006557426419148,
+      "TotalDebt": 74803251080990,
+      "BasePrice": 20710000,
+      "Symbol": "ONT",
+      "Index": 207
+    },
+    {
+      "TotalEquity": 306114273733029716,
+      "TotalDebt": 1878829126466825,
+      "BasePrice": 387000,
+      "Symbol": "OOKI",
+      "Index": 208
+    },
+    {
+      "TotalEquity": 7916193877538286,
+      "TotalDebt": 83936313854345,
+      "BasePrice": 216600000,
+      "Symbol": "OP",
+      "Index": 209
+    },
+    {
+      "TotalEquity": 1248601609900730,
+      "TotalDebt": 8966418413851,
+      "BasePrice": 94300000,
+      "Symbol": "ORN",
+      "Index": 210
+    },
+    {
+      "TotalEquity": 1774779347148757,
+      "TotalDebt": 12495697072496,
+      "BasePrice": 97600000,
+      "Symbol": "OSMO",
+      "Index": 211
+    },
+    {
+      "TotalEquity": 8577499101587920,
+      "TotalDebt": 13990091672144,
+      "BasePrice": 9610000,
+      "Symbol": "OXT",
+      "Index": 212
+    },
+    {
+      "TotalEquity": 2654738870450,
+      "TotalDebt": 7364816175,
+      "BasePrice": 189800000000,
+      "Symbol": "PAXG",
+      "Index": 213
+    },
+    {
+      "TotalEquity": 191230271793548368,
+      "TotalDebt": 1034475049712157,
+      "BasePrice": 2961000,
+      "Symbol": "PEOPLE",
+      "Index": 214
+    },
+    {
+      "TotalEquity": 2035220048360741,
+      "TotalDebt": 3356459425515,
+      "BasePrice": 70688000,
+      "Symbol": "PERP",
+      "Index": 215
+    },
+    {
+      "TotalEquity": 9501716515165483,
+      "TotalDebt": 80302015314591,
+      "BasePrice": 15400000,
+      "Symbol": "PHA",
+      "Index": 216
+    },
+    {
+      "TotalEquity": 2513007454175610,
+      "TotalDebt": 226961749404524,
+      "BasePrice": 95750000,
+      "Symbol": "PHB",
+      "Index": 217
+    },
+    {
+      "TotalEquity": 2948536891490332,
+      "TotalDebt": 28935427937080,
+      "BasePrice": 22700000,
+      "Symbol": "PLA",
+      "Index": 218
+    },
+    {
+      "TotalEquity": 4611295423750332,
+      "TotalDebt": 1283321478933,
+      "BasePrice": 17031703,
+      "Symbol": "PNT",
+      "Index": 219
+    },
+    {
+      "TotalEquity": 1586534631038185,
+      "TotalDebt": 25646140354630,
+      "BasePrice": 45400000,
+      "Symbol": "POLS",
+      "Index": 220
+    },
+    {
+      "TotalEquity": 7479054116964085,
+      "TotalDebt": 24707039418273,
+      "BasePrice": 18260000,
+      "Symbol": "POLYX",
+      "Index": 221
+    },
+    {
+      "TotalEquity": 207511797069504947,
+      "TotalDebt": 1245317345105313,
+      "BasePrice": 1032000,
+      "Symbol": "POND",
+      "Index": 222
+    },
+    {
+      "TotalEquity": 335675242229933,
+      "TotalDebt": 1829601992614,
+      "BasePrice": 303100000,
+      "Symbol": "PORTO",
+      "Index": 223
+    },
+    {
+      "TotalEquity": 4905448511203819,
+      "TotalDebt": 51448147807835,
+      "BasePrice": 17220000,
+      "Symbol": "POWR",
+      "Index": 224
+    },
+    {
+      "TotalEquity": 479226459261127,
+      "TotalDebt": 181963594879,
+      "BasePrice": 471000000,
+      "Symbol": "PROM",
+      "Index": 225
+    },
+    {
+      "TotalEquity": 2674318292611489,
+      "TotalDebt": 2275487214402,
+      "BasePrice": 62470000,
+      "Symbol": "PROS",
+      "Index": 226
+    },
+    {
+      "TotalEquity": 185537949027864,
+      "TotalDebt": 56518299504,
+      "BasePrice": 641000000,
+      "Symbol": "PSG",
+      "Index": 227
+    },
+    {
+      "TotalEquity": 3419868781181779,
+      "TotalDebt": 30724981008272,
+      "BasePrice": 45100000,
+      "Symbol": "PUNDIX",
+      "Index": 228
+    },
+    {
+      "TotalEquity": 1010118014385130,
+      "TotalDebt": 5511075874960,
+      "BasePrice": 391000000,
+      "Symbol": "PYR",
+      "Index": 229
+    },
+    {
+      "TotalEquity": 128941001288699937,
+      "TotalDebt": 1104903667574895,
+      "BasePrice": 877000,
+      "Symbol": "QI",
+      "Index": 230
+    },
+    {
+      "TotalEquity": 64808430598914,
+      "TotalDebt": 540453130107,
+      "BasePrice": 14200000000,
+      "Symbol": "QNT",
+      "Index": 231
+    },
+    {
+      "TotalEquity": 931588877550685,
+      "TotalDebt": 10874626722576,
+      "BasePrice": 269400000,
+      "Symbol": "QTUM",
+      "Index": 232
+    },
+    {
+      "TotalEquity": 9610808401127,
+      "TotalDebt": 85743117994,
+      "BasePrice": 6020000000,
+      "Symbol": "QUICK",
+      "Index": 233
+    },
+    {
+      "TotalEquity": 519034930715702,
+      "TotalDebt": 3918011242994,
+      "BasePrice": 188900000,
+      "Symbol": "RAD",
+      "Index": 234
+    },
+    {
+      "TotalEquity": 6581662850345045,
+      "TotalDebt": 36727424711549,
+      "BasePrice": 14910000,
+      "Symbol": "RARE",
+      "Index": 235
+    },
+    {
+      "TotalEquity": 1358283938885073426,
+      "TotalDebt": 16700352739387872,
+      "BasePrice": 321100,
+      "Symbol": "REEF",
+      "Index": 236
+    },
+    {
+      "TotalEquity": 28680721276912019,
+      "TotalDebt": 10975960598809,
+      "BasePrice": 2880000,
+      "Symbol": "REI",
+      "Index": 237
+    },
+    {
+      "TotalEquity": 14362253448801379,
+      "TotalDebt": 27487959102535,
+      "BasePrice": 8325500,
+      "Symbol": "REN",
+      "Index": 238
+    },
+    {
+      "TotalEquity": 13967941058214085,
+      "TotalDebt": 34146336295415,
+      "BasePrice": 10870000,
+      "Symbol": "REQ",
+      "Index": 239
+    },
+    {
+      "TotalEquity": 2151834604427033,
+      "TotalDebt": 19760244782607,
+      "BasePrice": 172931645,
+      "Symbol": "RLC",
+      "Index": 240
+    },
+    {
+      "TotalEquity": 4845394756346038,
+      "TotalDebt": 59118433772245,
+      "BasePrice": 141300000,
+      "Symbol": "RNDR",
+      "Index": 241
+    },
+    {
+      "TotalEquity": 184005763585067481,
+      "TotalDebt": 417061249311645,
+      "BasePrice": 5335000,
+      "Symbol": "ROSE",
+      "Index": 242
+    },
+    {
+      "TotalEquity": 21061398711219,
+      "TotalDebt": 383439390144,
+      "BasePrice": 3826000000,
+      "Symbol": "RPL",
+      "Index": 243
+    },
+    {
+      "TotalEquity": 720326913524376689,
+      "TotalDebt": 4036611271137632,
+      "BasePrice": 423800,
+      "Symbol": "RSR",
+      "Index": 244
+    },
+    {
+      "TotalEquity": 5629127279061675,
+      "TotalDebt": 17308765712075,
+      "BasePrice": 176700000,
+      "Symbol": "RUNE",
+      "Index": 245
+    },
+    {
+      "TotalEquity": 182632120776990650,
+      "TotalDebt": 1068121880666733,
+      "BasePrice": 2822000,
+      "Symbol": "RVN",
+      "Index": 246
+    },
+    {
+      "TotalEquity": 30650560583474548,
+      "TotalDebt": 385554699808999,
+      "BasePrice": 73000000,
+      "Symbol": "SAND",
+      "Index": 247
+    },
+    {
+      "TotalEquity": 180184766201905,
+      "TotalDebt": 2210243682811,
+      "BasePrice": 575000000,
+      "Symbol": "SANTOS",
+      "Index": 248
+    },
+    {
+      "TotalEquity": 903099087118534421,
+      "TotalDebt": 643503560736637,
+      "BasePrice": 308000,
+      "Symbol": "SC",
+      "Index": 249
+    },
+    {
+      "TotalEquity": 25638414075587108,
+      "TotalDebt": 171039776941418,
+      "BasePrice": 57580000,
+      "Symbol": "SFP",
+      "Index": 250
+    },
+    {
+      "TotalEquity": 8255672736810193,
+      "TotalDebt": 13536617854750,
+      "BasePrice": 1181000000,
+      "Symbol": "SHIB",
+      "Index": 251
+    },
+    {
+      "TotalEquity": 41158350391589414,
+      "TotalDebt": 50351421714418,
+      "BasePrice": 3467000,
+      "Symbol": "SKL",
+      "Index": 252
+    },
+    {
+      "TotalEquity": 2239021564777291931,
+      "TotalDebt": 25420426920855527,
+      "BasePrice": 305000,
+      "Symbol": "SLP",
+      "Index": 253
+    },
+    {
+      "TotalEquity": 3535760496531591,
+      "TotalDebt": 2297405686938,
+      "BasePrice": 99190000,
+      "Symbol": "SNM",
+      "Index": 254
+    },
+    {
+      "TotalEquity": 1629738039727627,
+      "TotalDebt": 30385953352822,
+      "BasePrice": 230300000,
+      "Symbol": "SNX",
+      "Index": 255
+    },
+    {
+      "TotalEquity": 1215140547133,
+      "TotalDebt": 20192590960,
+      "BasePrice": 79160000000,
+      "Symbol": "SPELL",
+      "Index": 256
+    },
+    {
+      "TotalEquity": 3302423021109499,
+      "TotalDebt": 0,
+      "BasePrice": 61020000,
+      "Symbol": "STG",
+      "Index": 257
+    },
+    {
+      "TotalEquity": 190681264085857124,
+      "TotalDebt": 1879112402286882,
+      "BasePrice": 545700,
+      "Symbol": "STMX",
+      "Index": 258
+    },
+    {
+      "TotalEquity": 2876403867262191,
+      "TotalDebt": 82298036809745,
+      "BasePrice": 36050000,
+      "Symbol": "STORJ",
+      "Index": 259
+    },
+    {
+      "TotalEquity": 38034391982277279,
+      "TotalDebt": 77685945285071,
+      "BasePrice": 4018000,
+      "Symbol": "STPT",
+      "Index": 260
+    },
+    {
+      "TotalEquity": 1801741089655964,
+      "TotalDebt": 5050227377734,
+      "BasePrice": 56200000,
+      "Symbol": "STRAX",
+      "Index": 261
+    },
+    {
+      "TotalEquity": 6117756125130289,
+      "TotalDebt": 45002608532967,
+      "BasePrice": 27600000,
+      "Symbol": "STX",
+      "Index": 262
+    },
+    {
+      "TotalEquity": 108784104838283929,
+      "TotalDebt": 939633829070134,
+      "BasePrice": 597000,
+      "Symbol": "SUN",
+      "Index": 263
+    },
+    {
+      "TotalEquity": 10214173814342111,
+      "TotalDebt": 135115624215625,
+      "BasePrice": 12310000,
+      "Symbol": "SUPER",
+      "Index": 264
+    },
+    {
+      "TotalEquity": 4675305606407316,
+      "TotalDebt": 33362795295228,
+      "BasePrice": 126500000,
+      "Symbol": "SUSHI",
+      "Index": 265
+    },
+    {
+      "TotalEquity": 14783101737903263,
+      "TotalDebt": 105413979116590,
+      "BasePrice": 28340000,
+      "Symbol": "SXP",
+      "Index": 266
+    },
+    {
+      "TotalEquity": 16979417216626484,
+      "TotalDebt": 8337869083598,
+      "BasePrice": 16290000,
+      "Symbol": "SYS",
+      "Index": 267
+    },
+    {
+      "TotalEquity": 43935429303202771,
+      "TotalDebt": 49307431962329,
+      "BasePrice": 4964000,
+      "Symbol": "T",
+      "Index": 268
+    },
+    {
+      "TotalEquity": 36066288873589102,
+      "TotalDebt": 485865846178507,
+      "BasePrice": 5480000,
+      "Symbol": "TFUEL",
+      "Index": 269
+    },
+    {
+      "TotalEquity": 9514875363026815,
+      "TotalDebt": 26115774105046,
+      "BasePrice": 102500000,
+      "Symbol": "THETA",
+      "Index": 270
+    },
+    {
+      "TotalEquity": 9058923198246131,
+      "TotalDebt": 5505244580998,
+      "BasePrice": 33670000,
+      "Symbol": "TKO",
+      "Index": 271
+    },
+    {
+      "TotalEquity": 174790987850704817,
+      "TotalDebt": 1967850611759300,
+      "BasePrice": 2126000,
+      "Symbol": "TLM",
+      "Index": 272
+    },
+    {
+      "TotalEquity": 3792363114388475,
+      "TotalDebt": 3073316347640,
+      "BasePrice": 37500000,
+      "Symbol": "TOMO",
+      "Index": 273
+    },
+    {
+      "TotalEquity": 97733473708441,
+      "TotalDebt": 291644191275,
+      "BasePrice": 1547000000,
+      "Symbol": "TRB",
+      "Index": 274
+    },
+    {
+      "TotalEquity": 479603702956597878,
+      "TotalDebt": 267782988384836,
+      "BasePrice": 303200,
+      "Symbol": "TROY",
+      "Index": 275
+    },
+    {
+      "TotalEquity": 18321062990386830,
+      "TotalDebt": 3162677138955,
+      "BasePrice": 3954970,
+      "Symbol": "TRU",
+      "Index": 276
+    },
+    {
+      "TotalEquity": 634550763224364547,
+      "TotalDebt": 1798550956798739,
+      "BasePrice": 6219000,
+      "Symbol": "TRX",
+      "Index": 277
+    },
+    {
+      "TotalEquity": 52048057092119759,
+      "TotalDebt": 202959127695915,
+      "BasePrice": 4440000,
+      "Symbol": "TVK",
+      "Index": 278
+    },
+    {
+      "TotalEquity": 11291709792543823,
+      "TotalDebt": 24988810099399,
+      "BasePrice": 166020000,
+      "Symbol": "TWT",
+      "Index": 279
+    },
+    {
+      "TotalEquity": 317001060934327,
+      "TotalDebt": 1695083561288,
+      "BasePrice": 204300000,
+      "Symbol": "UMA",
+      "Index": 280
+    },
+    {
+      "TotalEquity": 391657752412581,
+      "TotalDebt": 2451502681455,
+      "BasePrice": 557500000,
+      "Symbol": "UNFI",
+      "Index": 281
+    },
+    {
+      "TotalEquity": 2589562407757167,
+      "TotalDebt": 22910887567771,
+      "BasePrice": 655900000,
+      "Symbol": "UNI",
+      "Index": 282
+    },
+    {
+      "TotalEquity": 213346038519646219,
+      "TotalDebt": 1675546503740245,
+      "BasePrice": 2487000,
+      "Symbol": "USTC",
+      "Index": 283
+    },
+    {
+      "TotalEquity": 12489826288624567,
+      "TotalDebt": 35885093886093,
+      "BasePrice": 9760000,
+      "Symbol": "UTK",
+      "Index": 284
+    },
+    {
+      "TotalEquity": 1444408677456621810,
+      "TotalDebt": 4680473001507173,
+      "BasePrice": 2313000,
+      "Symbol": "VET",
+      "Index": 285
+    },
+    {
+      "TotalEquity": 14066194773375219,
+      "TotalDebt": 19479302187886,
+      "BasePrice": 9038000,
+      "Symbol": "VIB",
+      "Index": 286
+    },
+    {
+      "TotalEquity": 47695672200660299,
+      "TotalDebt": 126760362325309,
+      "BasePrice": 2402000,
+      "Symbol": "VITE",
+      "Index": 287
+    },
+    {
+      "TotalEquity": 7309387039915520,
+      "TotalDebt": 16777120261567,
+      "BasePrice": 29050000,
+      "Symbol": "VOXEL",
+      "Index": 288
+    },
+    {
+      "TotalEquity": 936245720526779949,
+      "TotalDebt": 5746152293035493,
+      "BasePrice": 112811,
+      "Symbol": "VTHO",
+      "Index": 289
+    },
+    {
+      "TotalEquity": 4307011139553025,
+      "TotalDebt": 15598120115530,
+      "BasePrice": 21275129,
+      "Symbol": "WAN",
+      "Index": 290
+    },
+    {
+      "TotalEquity": 1759765035832395,
+      "TotalDebt": 28805630597670,
+      "BasePrice": 248000000,
+      "Symbol": "WAVES",
+      "Index": 291
+    },
+    {
+      "TotalEquity": 29231443482248911,
+      "TotalDebt": 94784891268211,
+      "BasePrice": 6760000,
+      "Symbol": "WAXP",
+      "Index": 292
+    },
+    {
+      "TotalEquity": 38195600310283,
+      "TotalDebt": 42785134267,
+      "BasePrice": 9140000000,
+      "Symbol": "WIN",
+      "Index": 293
+    },
+    {
+      "TotalEquity": 191346831325425,
+      "TotalDebt": 81261531458,
+      "BasePrice": 763000000,
+      "Symbol": "WING",
+      "Index": 294
+    },
+    {
+      "TotalEquity": 34214912067981,
+      "TotalDebt": 638588120534,
+      "BasePrice": 1692169217,
+      "Symbol": "WNXM",
+      "Index": 295
+    },
+    {
+      "TotalEquity": 11939140829019360,
+      "TotalDebt": 48156940059527,
+      "BasePrice": 17970000,
+      "Symbol": "WOO",
+      "Index": 296
+    },
+    {
+      "TotalEquity": 27957830015812468,
+      "TotalDebt": 6267551207429,
+      "BasePrice": 19320000,
+      "Symbol": "WRX",
+      "Index": 297
+    },
+    {
+      "TotalEquity": 5845297636312306,
+      "TotalDebt": 3229155668316,
+      "BasePrice": 23151608,
+      "Symbol": "WTC",
+      "Index": 298
+    },
+    {
+      "TotalEquity": 137764343123798,
+      "TotalDebt": 135337108466,
+      "BasePrice": 3580000000,
+      "Symbol": "XEC",
+      "Index": 299
+    },
+    {
+      "TotalEquity": 76627712302638105,
+      "TotalDebt": 35470091024711,
+      "BasePrice": 3700370,
+      "Symbol": "XEM",
+      "Index": 300
+    },
+    {
+      "TotalEquity": 106385704622888138,
+      "TotalDebt": 9214599722857727,
+      "BasePrice": 9070000,
+      "Symbol": "XLM",
+      "Index": 301
+    },
+    {
+      "TotalEquity": 65343299005833,
+      "TotalDebt": 956036887882,
+      "BasePrice": 17760000000,
+      "Symbol": "XMR",
+      "Index": 302
+    },
+    {
+      "TotalEquity": 4038761600760589,
+      "TotalDebt": 67035934301378,
+      "BasePrice": 105700000,
+      "Symbol": "XTZ",
+      "Index": 303
+    },
+    {
+      "TotalEquity": 674266886914770532,
+      "TotalDebt": 31982581784145,
+      "BasePrice": 310000,
+      "Symbol": "XVG",
+      "Index": 304
+    },
+    {
+      "TotalEquity": 492469390301185,
+      "TotalDebt": 602274169452,
+      "BasePrice": 517000000,
+      "Symbol": "XVS",
+      "Index": 305
+    },
+    {
+      "TotalEquity": 446449937242,
+      "TotalDebt": 12872195140,
+      "BasePrice": 722900000000,
+      "Symbol": "YFI",
+      "Index": 306
+    },
+    {
+      "TotalEquity": 6379369393660656,
+      "TotalDebt": 2899053459379,
+      "BasePrice": 30470000,
+      "Symbol": "YGG",
+      "Index": 307
+    },
+    {
+      "TotalEquity": 203361998711666,
+      "TotalDebt": 1426126034174,
+      "BasePrice": 4520000000,
+      "Symbol": "ZEC",
+      "Index": 308
+    },
+    {
+      "TotalEquity": 264544092718207,
+      "TotalDebt": 37940739315,
+      "BasePrice": 1012000000,
+      "Symbol": "ZEN",
+      "Index": 309
+    },
+    {
+      "TotalEquity": 270194003785971315,
+      "TotalDebt": 2389603998075850,
+      "BasePrice": 2693000,
+      "Symbol": "ZIL",
+      "Index": 310
+    },
+    {
+      "TotalEquity": 6479891628931404,
+      "TotalDebt": 98511801274992,
+      "BasePrice": 21640000,
+      "Symbol": "ZRX",
+      "Index": 311
+    }
+  ]
+}
